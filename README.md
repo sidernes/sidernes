@@ -1,4 +1,4 @@
-sidernes / README.md
+ricardodev / README.md
 
 👋 Hi there
 
@@ -26,7 +26,6 @@ I'm Ricardo, a software developer with over 7 years of experience, committed to 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
 ### 📺 Featured Projects
@@ -39,8 +38,9 @@ I'm Ricardo, a software developer with over 7 years of experience, committed to 
 
 ### 🌐 Let's Connect
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ricardo-villalta-70574b1a5/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ricardo-villalta-70574b1a5/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://ricardovillalta.com)
 
 ---
 
-![Ricardo's Portfolio](ricardovillalta.com)
+![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)

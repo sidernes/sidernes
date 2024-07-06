@@ -8,9 +8,7 @@ I'm Ricardo, a software developer with over 7 years of experience, committed to 
 
 ### 🚀 Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
+HTML5 CSS3 JavaScript
 - React
 - React Native
 - Tailwind CSS
@@ -42,4 +40,4 @@ I'm Ricardo, a software developer with over 7 years of experience, committed to 
 
 ---
 
-![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Ricardo's Portfolio](ricardovillalta.com)

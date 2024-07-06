@@ -2,7 +2,7 @@ ricardodev / README.md
 
 👋 Hi there
 
-I'm Ricardo, a software developer with over 7 years of experience, committed to creating innovative and high-quality tools. Throughout my career, I have developed solutions that have had a significant impact, improving processes and outcomes in various projects. My contribution has been useful and versatile, adapting to dynamic and challenging environments to ensure success and productivity.
+I'm Ricardo, a software developer with a solid foundation of experience, passionate about working with new technologies. I have worked on both frontend and backend projects, contributing to innovative and impactful solutions. My versatility and adaptability in dynamic and challenging environments have ensured the success and productivity of the projects I have been involved in.
 
 ---
 
